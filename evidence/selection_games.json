@@ -1,0 +1,354 @@
+[
+  {
+    "id": "b1-p02-1",
+    "board": "board-1",
+    "players": {
+      "Dark": "denial",
+      "Light": "repair10b"
+    },
+    "winner": "repair10b",
+    "winner_color": "Light",
+    "plies": 27,
+    "scores": {
+      "Light": 16,
+      "Dark": 12
+    },
+    "source_sha256": "e4147bed56d06bfffda81139a143e7f61575cb22489512ccc8a7025549098dfb"
+  },
+  {
+    "id": "b1-p02-2",
+    "board": "board-1",
+    "players": {
+      "Dark": "repair10b",
+      "Light": "denial"
+    },
+    "winner": "denial",
+    "winner_color": "Light",
+    "plies": 27,
+    "scores": {
+      "Light": 14,
+      "Dark": 14
+    },
+    "source_sha256": "7a033307db8b0ff966c3a7f0b28fcd02c5c11d8e4e99f27fd9e83f12880fd2be"
+  },
+  {
+    "id": "b1-p06-1",
+    "board": "board-1",
+    "players": {
+      "Dark": "learned",
+      "Light": "denial"
+    },
+    "winner": "denial",
+    "winner_color": "Light",
+    "plies": 29,
+    "scores": {
+      "Light": 17,
+      "Dark": 17
+    },
+    "source_sha256": "67e0892bd7b6d816fb08891b48c70f544ccd40e1351ae3cf919ed54400832f68"
+  },
+  {
+    "id": "b1-p06-2",
+    "board": "board-1",
+    "players": {
+      "Dark": "denial",
+      "Light": "learned"
+    },
+    "winner": "denial",
+    "winner_color": "Dark",
+    "plies": 26,
+    "scores": {
+      "Light": 12,
+      "Dark": 17
+    },
+    "source_sha256": "48a96d42d44a123fc9a25a3389aff1d872dd0859a8adfc06d9f32497dac16805"
+  },
+  {
+    "id": "b1-p07-1",
+    "board": "board-1",
+    "players": {
+      "Dark": "denial",
+      "Light": "revision30"
+    },
+    "winner": "denial",
+    "winner_color": "Dark",
+    "plies": 26,
+    "scores": {
+      "Light": 14,
+      "Dark": 15
+    },
+    "source_sha256": "eebd61de5fd56b5ce1eecf0634c19079ebe5a9702294b937e6abcdada4f92286"
+  },
+  {
+    "id": "b1-p07-2",
+    "board": "board-1",
+    "players": {
+      "Dark": "revision30",
+      "Light": "denial"
+    },
+    "winner": "revision30",
+    "winner_color": "Dark",
+    "plies": 26,
+    "scores": {
+      "Light": 13,
+      "Dark": 14
+    },
+    "source_sha256": "d160fc04e2950dfb448adcfb52de010a67f47776d5dca3b73ef7f90d374db775"
+  },
+  {
+    "id": "b2-p02-1",
+    "board": "board-2",
+    "players": {
+      "Dark": "denial",
+      "Light": "revision30"
+    },
+    "winner": "denial",
+    "winner_color": "Dark",
+    "plies": 24,
+    "scores": {
+      "Light": 14,
+      "Dark": 17
+    },
+    "source_sha256": "8eae7ecf87ee0b8f49bd957e9bd85bb65a829fca76a22dc914b5c94d7f6d413e"
+  },
+  {
+    "id": "b2-p02-2",
+    "board": "board-2",
+    "players": {
+      "Dark": "revision30",
+      "Light": "denial"
+    },
+    "winner": "revision30",
+    "winner_color": "Dark",
+    "plies": 26,
+    "scores": {
+      "Light": 14,
+      "Dark": 16
+    },
+    "source_sha256": "50e59327f3bdccf4ee4b8311529e22ea128a60f6ab937fa7e3f05e40490eddaf"
+  },
+  {
+    "id": "b2-p07-1",
+    "board": "board-2",
+    "players": {
+      "Dark": "denial",
+      "Light": "repair10b"
+    },
+    "winner": "denial",
+    "winner_color": "Dark",
+    "plies": 24,
+    "scores": {
+      "Light": 13,
+      "Dark": 16
+    },
+    "source_sha256": "cc50a952ab9ef99f0e6fa952e1a90a23776fd1e3b6261ef10e4c424de4cc4a9f"
+  },
+  {
+    "id": "b2-p07-2",
+    "board": "board-2",
+    "players": {
+      "Dark": "repair10b",
+      "Light": "denial"
+    },
+    "winner": "repair10b",
+    "winner_color": "Dark",
+    "plies": 28,
+    "scores": {
+      "Light": 15,
+      "Dark": 16
+    },
+    "source_sha256": "c199561a655034ccff384470719d17331759e4d28ad0d7730f0e6ce122cb191f"
+  },
+  {
+    "id": "b3-final-p01-1",
+    "board": "board-3",
+    "players": {
+      "Dark": "denial",
+      "Light": "revision30"
+    },
+    "winner": "revision30",
+    "winner_color": "Light",
+    "plies": 28,
+    "scores": {
+      "Light": 15,
+      "Dark": 15
+    },
+    "source_sha256": "add9130b0aa05bdc770afb0b33fc966a1ff7b13fc3986bc16faa5e976c600ece"
+  },
+  {
+    "id": "b3-final-p01-2",
+    "board": "board-3",
+    "players": {
+      "Dark": "revision30",
+      "Light": "denial"
+    },
+    "winner": "denial",
+    "winner_color": "Light",
+    "plies": 29,
+    "scores": {
+      "Light": 16,
+      "Dark": 16
+    },
+    "source_sha256": "3fa1b81bbce061bfac3ecfb71db161ad4d000a7322e44b0ea1e11e32bcf7f958"
+  },
+  {
+    "id": "b3-final-p02-1",
+    "board": "board-3",
+    "players": {
+      "Dark": "denial",
+      "Light": "repair10b"
+    },
+    "winner": "repair10b",
+    "winner_color": "Light",
+    "plies": 29,
+    "scores": {
+      "Light": 15,
+      "Dark": 15
+    },
+    "source_sha256": "8b50302cfbb571702dce069d1b865a30786748da6c95ca8407a97ee011f576e3"
+  },
+  {
+    "id": "b3-final-p02-2",
+    "board": "board-3",
+    "players": {
+      "Dark": "repair10b",
+      "Light": "denial"
+    },
+    "winner": "denial",
+    "winner_color": "Light",
+    "plies": 29,
+    "scores": {
+      "Light": 16,
+      "Dark": 16
+    },
+    "source_sha256": "5f3fbb03a6534fdb22f0a1acb3bc6e6b3d7e31de586d93185dafb2ed762ad8f8"
+  },
+  {
+    "id": "r1-p01-1",
+    "board": "random-1",
+    "players": {
+      "Dark": "denial",
+      "Light": "repair10b"
+    },
+    "winner": "denial",
+    "winner_color": "Dark",
+    "plies": 32,
+    "scores": {
+      "Light": 12,
+      "Dark": 15
+    },
+    "source_sha256": "9766304bb5a50e2efe5fe86b2e750389650cdc4c1d5321010119fe9961fdd23d"
+  },
+  {
+    "id": "r1-p01-2",
+    "board": "random-1",
+    "players": {
+      "Dark": "repair10b",
+      "Light": "denial"
+    },
+    "winner": "denial",
+    "winner_color": "Light",
+    "plies": 27,
+    "scores": {
+      "Light": 16,
+      "Dark": 16
+    },
+    "source_sha256": "57689ff6c5218a2ab6ef8e74588cf15a7eb83e866aaa2b9b233d12db264cc898"
+  },
+  {
+    "id": "r1-p02-1",
+    "board": "random-2",
+    "players": {
+      "Dark": "revision30",
+      "Light": "denial"
+    },
+    "winner": "denial",
+    "winner_color": "Light",
+    "plies": 25,
+    "scores": {
+      "Light": 16,
+      "Dark": 13
+    },
+    "source_sha256": "ae9a99102981ea79d22d89b3e0a59d5266acb3b2baddb684334ec57308619fb8"
+  },
+  {
+    "id": "r1-p02-2",
+    "board": "random-2",
+    "players": {
+      "Dark": "denial",
+      "Light": "revision30"
+    },
+    "winner": "denial",
+    "winner_color": "Dark",
+    "plies": 26,
+    "scores": {
+      "Light": 12,
+      "Dark": 16
+    },
+    "source_sha256": "f88ce7c98f88ed60c96331894f1718a95dce681c2b91d537e928cbb8a6bd33e5"
+  },
+  {
+    "id": "r2-p01-1",
+    "board": "random-4",
+    "players": {
+      "Dark": "revision30",
+      "Light": "denial"
+    },
+    "winner": "denial",
+    "winner_color": "Light",
+    "plies": 29,
+    "scores": {
+      "Light": 14,
+      "Dark": 13
+    },
+    "source_sha256": "827359be2e31ac8d86f78b1c2125a921b4adada7fd815906716a469dc435934f"
+  },
+  {
+    "id": "r2-p01-2",
+    "board": "random-4",
+    "players": {
+      "Dark": "denial",
+      "Light": "revision30"
+    },
+    "winner": "revision30",
+    "winner_color": "Light",
+    "plies": 31,
+    "scores": {
+      "Light": 17,
+      "Dark": 12
+    },
+    "source_sha256": "ba7c91d40757deb04f26eb98eb14cf7d906d3eba2d86a4013d00c1c08834edc3"
+  },
+  {
+    "id": "r2-p02-1",
+    "board": "random-5",
+    "players": {
+      "Dark": "repair10b",
+      "Light": "denial"
+    },
+    "winner": "repair10b",
+    "winner_color": "Dark",
+    "plies": 24,
+    "scores": {
+      "Light": 15,
+      "Dark": 16
+    },
+    "source_sha256": "3ad74c266a6815dede38bfd9f97520655f1a3b2c59aca0f9f81e4b3ed14f139c"
+  },
+  {
+    "id": "r2-p02-2",
+    "board": "random-5",
+    "players": {
+      "Dark": "denial",
+      "Light": "repair10b"
+    },
+    "winner": "denial",
+    "winner_color": "Dark",
+    "plies": 33,
+    "scores": {
+      "Light": 10,
+      "Dark": 11
+    },
+    "source_sha256": "b349f8a2eb8bac792a7a33b263bd4d2f4a95ad78060c0084ca31298ed0a692c8"
+  }
+]

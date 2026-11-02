@@ -1,0 +1,57 @@
+{
+  "review_date": "2026-11-01",
+  "checked_at_utc": "2026-11-02T01:04:29.649183+00:00",
+  "python": "3.12.14",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "method": "Copied package into a clean temporary directory, removed PYTHONPATH, used only Python standard library.",
+  "unit_tests": 15,
+  "unit_tests_passed": 15,
+  "saved_state_subcases": 6,
+  "demo_passed": true,
+  "historical_summary_passed": true,
+  "historical_summary": {
+    "games": 22,
+    "wins": 14,
+    "losses": 8,
+    "boards": 7,
+    "opponents": {
+      "learned": {
+        "wins": 2,
+        "losses": 0
+      },
+      "repair10b": {
+        "wins": 6,
+        "losses": 4
+      },
+      "revision30": {
+        "wins": 6,
+        "losses": 4
+      }
+    },
+    "colors": {
+      "Dark": {
+        "wins": 7,
+        "losses": 4
+      },
+      "Light": {
+        "wins": 7,
+        "losses": 4
+      }
+    },
+    "stages": {
+      "earlier": {
+        "wins": 8,
+        "losses": 6
+      },
+      "random_extension": {
+        "wins": 6,
+        "losses": 2
+      }
+    },
+    "scope": "Historical selected internal sample; no new games or general win probability."
+  },
+  "new_competitive_games": 0,
+  "new_strength_benchmarks": 0,
+  "github_actions_run": false,
+  "scope": "Targeted correctness and packaging checks only; no default-clock timing or strength result."
+}
